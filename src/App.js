@@ -7,7 +7,7 @@ export default function App() {
       <h1 className="header">Dictionary App</h1>
     
       <main className="container">
-        <Dictionary defaultValue="magic" />
+        <Dictionary defaultValue="Book" />
       <footer className='App-footer'>
         <small>
         💻Coded by <a href='/' className="footer-link">Romie Castilleja</a> and is <a href="/" className="footer-link">open-sourced</a> on Github.
