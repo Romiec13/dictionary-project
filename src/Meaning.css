@@ -2,6 +2,8 @@
     font-size: 24px;
     line-height: 1.5;
     font-weight: bold;
+    color: #c06c84;
+    text-decoration: underline;
 }
 
 .Meaning .example {

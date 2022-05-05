@@ -5,17 +5,16 @@ export default function App() {
   return (
     <div className="App">
       <h1 className="header">Dictionary App</h1>
-      <div className='container'>
+    
       <main className="container">
         <Dictionary defaultValue="magic" />
-      </main>
-      
       <footer className='App-footer'>
         <small>
-        Coded by <a href='/'>Romie Castilleja</a> and is <a href="/">open-sourced</a> on Github.
+        💻Coded by <a href='/' className="footer-link">Romie Castilleja</a> and is <a href="/" className="footer-link">open-sourced</a> on Github.
         </small>
       </footer>
+      </main>
+      
       </div>
-    </div>
-  );
+        );
 };

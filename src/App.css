@@ -1,28 +1,39 @@
 body {
-  background: #f9f8fe;
+  background: url(https://www.toptal.com/designers/subtlepatterns/uploads/memphis-colorful.png) 50% repeat fixed;
   margin-top: 60px;
 }
 
 .App .header {
-text-align: center;
-font-size: 50px;
-font-weight: bold;
-}
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  color:#94456ff0;
+  }
 
 .App-footer {
   text-align: center;
-  margin: 30px 0;
+}
+
+.App .footer-link {
+  color: #94456ff0;
 }
 
 .App a {
-  color: #9670f4;
+  color: white;
+  text-decoration: none;
+}
+
+.App a:hover {
+  color:white;
 }
 
 .container {
-  background-color: blue;
+  background-color: #ffe1cd;
   border-radius: 20px;
-  padding-top: 15px;
-  
+  padding: 30px 40px;
+  max-width: 870px;
+  margin-bottom: 60px;
+  box-shadow: 10px 10px 15px rgba(0 0 0 /15%);
 }
 
 
