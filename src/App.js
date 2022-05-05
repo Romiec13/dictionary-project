@@ -10,7 +10,7 @@ export default function App() {
       </header>
 
       <main>
-        <Dictionary />
+        <Dictionary defaultValue="magic" />
       </main>
       
       <footer className='App-footer'>
