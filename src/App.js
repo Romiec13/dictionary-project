@@ -4,12 +4,9 @@ import './App.css';
 export default function App() {
   return (
     <div className="App">
+      <h1 className="header">Dictionary App</h1>
       <div className='container'>
-      <header className="App-header">
-       📚Dictionary App
-      </header>
-
-      <main>
+      <main className="container">
         <Dictionary defaultValue="magic" />
       </main>
       
