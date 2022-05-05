@@ -12,7 +12,7 @@ export default function App() {
       
       <footer className='App-footer'>
         <small>
-        Coded by <a href='/'>Romie Castilleja</a>
+        Coded by <a href='/'>Romie Castilleja</a> and is <a href="/">open-sourced</a> on Github.
         </small>
       </footer>
       </div>
