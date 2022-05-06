@@ -3,6 +3,7 @@
     margin-bottom: 20px;
     text-align: center;
     opacity: 0.65;
+    font-family: 'Hachi Maru Pop', cursive;
 }
 
 .Dictionary section {
@@ -25,4 +26,5 @@
     font-size: 13px;
     text-align: center;
     margin-top: 8px;
+    font-family: 'Hachi Maru Pop', cursive;
 }

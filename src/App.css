@@ -1,26 +1,31 @@
 body {
   background: url(https://www.toptal.com/designers/subtlepatterns/uploads/memphis-colorful.png) 50% repeat fixed;
   margin-top: 60px;
+  font-family: cursive;
 }
 
 .App .header {
   text-align: center;
-  font-size: 50px;
-  font-weight: bold;
+  font-size: 60px;
+  font-weight: 700;
   color:#94456ff0;
+  font-family: 'Hachi Maru Pop', cursive;
   }
 
 .App-footer {
   text-align: center;
+  font-family: 'Hachi Maru Pop', cursive;
 }
 
 .App .footer-link {
   color: #94456ff0;
+  font-family: 'Hachi Maru Pop', cursive;
 }
 
 .App a {
   color: white;
   text-decoration: none;
+
 }
 
 .App a:hover {
