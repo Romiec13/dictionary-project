@@ -10,7 +10,7 @@ export default function App() {
         <Dictionary defaultValue="Book" />
       <footer className='App-footer'>
         <small>
-        💻Coded by <a href='/' className="footer-link">Romie Castilleja</a> and is <a href="/" className="footer-link">open-sourced</a> on Github.
+        💻Coded by <a href='https://romiecastilleja.netlify.app/' className="footer-link">Romie Castilleja</a> and is <a href="https://github.com/Romiec13/dictionary-project" className="footer-link">open-sourced</a> on Github.
         </small>
       </footer>
       </main>
